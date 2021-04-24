@@ -1,0 +1,94 @@
+
+.body-container{
+    background-color: rgba(255, 192, 203, 0.719);
+}
+
+
+.container img{
+    display: block;
+    width: 120px;
+    margin: auto;
+    border-radius: 100%;
+    height: 120px;
+    padding: 10px;
+}
+.container{
+
+    text-align: center;
+}
+.mid{
+    border: 0px solid black;
+    height: 347px;
+    width: 773px;
+    display: block;
+    margin: auto;
+    box-shadow: 6px 9px 14px black;
+    padding-top: 40px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.582);
+}
+.mb-3{
+    height: 80px;
+    width: 700px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#btn{
+    display: block;
+    margin: auto;
+}
+.last{
+    padding-top: 70px;
+    text-align: center;
+}
+.card{
+    border: 2px solid blue;
+    margin: 5px;
+    height: 277px;
+    width: 515px;
+    margin-top: 20px;
+    box-shadow: 7px 7px 10px gray;
+    border-radius: 30 px;
+
+}
+.card-container{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.deposit{
+    height: 51px;
+    width: 472px;
+    padding-left: 33px;
+    padding-top: 58px;
+}
+#bttn{
+   
+    margin: 13px
+}
+.withdraw{
+    height: 51px;
+    width: 472px;
+    padding-left: 33px;
+    padding-top: 58px;
+    
+}
+.user{
+    margin: 10px;
+    height: 163px;
+    width: 298px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.account{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+ h3{
+    font-size: 1.75rem;
+    
+}
